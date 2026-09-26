@@ -1,0 +1,6 @@
+{
+  "topic": "Example educational topic",
+  "source_text": "This is a generic example used to demonstrate the workflow.",
+  "target_languages": ["fr", "en"],
+  "platforms": ["tiktok", "instagram"]
+}
